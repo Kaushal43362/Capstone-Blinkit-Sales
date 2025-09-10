@@ -14,7 +14,7 @@ Blinkit Sales Analysis Dashboard
 
 This project analyzes Blinkit grocery sales data using SQL for data cleaning and transformations and Power BI for visualization. The interactive dashboards provide actionable insights into sales trends, product performance, and outlet distribution.
 
-🔎 Project Workflow
+Project Workflow
 
 Data Cleaning (SQL):
 
@@ -32,8 +32,8 @@ Visualized KPIs including Total Sales, Average Sales, Number of Items, and Avera
 
 Created drilldowns by Fat Content, Item Type, Outlet Size, Outlet Location, and Establishment Year.
 
-📸 Dashboard Previews
-1️⃣ Overall Sales Dashboard
+Dashboard Previews
+1.Overall Sales Dashboard
 
 Total Sales: $1.20M, Avg Sales: $141, Avg Rating: 3.9
 
@@ -43,7 +43,7 @@ Sales distribution across Outlet Size (Small/Medium/High) and Outlet Location (T
 
 Performance comparison of different outlet types
 
-2️⃣ Tier 1 Outlet Analysis
+2️.Tier 1 Outlet Analysis
 
 Focuses on Tier 1 outlet locations
 
@@ -53,7 +53,7 @@ Compares sales across Supermarket vs Grocery Store
 
 Highlights smaller sales volume vs Tier 2 & Tier 3
 
-3️⃣ Sales Breakdown by Categories
+3️.Sales Breakdown by Categories
 
 Drilldown of Total Sales by Item Types (e.g., Fruits, Dairy, Snacks, Beverages)
 
@@ -63,7 +63,7 @@ Detailed Outlet Size & Location-wise Sales Performance
 
 Outlet Type comparison showing Supermarkets driving majority sales
 
-🚀 Tools Used
+Tools Used
 
 SQL → Data cleaning & transformations
 
@@ -71,7 +71,7 @@ Power BI → Dashboard creation & KPIs visualization
 
 Excel → Data source integration
 
-📈 Key Insights
+Key Insights
 
 Supermarkets dominate sales, with Supermarket Type1 alone contributing $787K+.
 
@@ -83,7 +83,7 @@ Top-performing categories include Fruits, Snacks, and Dairy.
 
 Sales peaked around 2018 before stabilizing in later years.
 
-📂 Repository Structure
+Repository Structure
 
 BlinkIT Grocery Data.xlsx → Raw dataset
 
